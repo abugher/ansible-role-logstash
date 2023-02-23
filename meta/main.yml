@@ -1,4 +1,0 @@
----
-dependencies:
-  - role:       'logstash_repo'
-    when:       skipdeps is not defined
