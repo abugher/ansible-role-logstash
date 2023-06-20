@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - 'logstash_repo'
+  - 'logstash-repo'
 install_packages:
   - 'logstash'
   - 'openjdk-8-jre-headless'
